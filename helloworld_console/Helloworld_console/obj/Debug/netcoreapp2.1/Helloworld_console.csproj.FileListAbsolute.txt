@@ -1,0 +1,11 @@
+C:\Users\victo\Source\Repos\Helloworld_console\Helloworld_console\bin\Debug\netcoreapp2.1\Helloworld_console.deps.json
+C:\Users\victo\Source\Repos\Helloworld_console\Helloworld_console\bin\Debug\netcoreapp2.1\Helloworld_console.runtimeconfig.json
+C:\Users\victo\Source\Repos\Helloworld_console\Helloworld_console\bin\Debug\netcoreapp2.1\Helloworld_console.runtimeconfig.dev.json
+C:\Users\victo\Source\Repos\Helloworld_console\Helloworld_console\bin\Debug\netcoreapp2.1\Helloworld_console.dll
+C:\Users\victo\Source\Repos\Helloworld_console\Helloworld_console\bin\Debug\netcoreapp2.1\Helloworld_console.pdb
+C:\Users\victo\Source\Repos\Helloworld_console\Helloworld_console\obj\Debug\netcoreapp2.1\Helloworld_console.csprojAssemblyReference.cache
+C:\Users\victo\Source\Repos\Helloworld_console\Helloworld_console\obj\Debug\netcoreapp2.1\Helloworld_console.csproj.CoreCompileInputs.cache
+C:\Users\victo\Source\Repos\Helloworld_console\Helloworld_console\obj\Debug\netcoreapp2.1\Helloworld_console.AssemblyInfoInputs.cache
+C:\Users\victo\Source\Repos\Helloworld_console\Helloworld_console\obj\Debug\netcoreapp2.1\Helloworld_console.AssemblyInfo.cs
+C:\Users\victo\Source\Repos\Helloworld_console\Helloworld_console\obj\Debug\netcoreapp2.1\Helloworld_console.dll
+C:\Users\victo\Source\Repos\Helloworld_console\Helloworld_console\obj\Debug\netcoreapp2.1\Helloworld_console.pdb

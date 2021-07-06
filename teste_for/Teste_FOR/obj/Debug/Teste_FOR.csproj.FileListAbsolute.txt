@@ -1,0 +1,10 @@
+C:\Users\victo\Source\Repos\Teste_FOR\Teste_FOR\bin\Debug\Teste_FOR.exe.config
+C:\Users\victo\Source\Repos\Teste_FOR\Teste_FOR\bin\Debug\Teste_FOR.exe
+C:\Users\victo\Source\Repos\Teste_FOR\Teste_FOR\bin\Debug\Teste_FOR.pdb
+C:\Users\victo\Source\Repos\Teste_FOR\Teste_FOR\obj\Debug\Teste_FOR.csprojAssemblyReference.cache
+C:\Users\victo\Source\Repos\Teste_FOR\Teste_FOR\obj\Debug\Teste_FOR.Form1.resources
+C:\Users\victo\Source\Repos\Teste_FOR\Teste_FOR\obj\Debug\Teste_FOR.Properties.Resources.resources
+C:\Users\victo\Source\Repos\Teste_FOR\Teste_FOR\obj\Debug\Teste_FOR.csproj.GenerateResource.cache
+C:\Users\victo\Source\Repos\Teste_FOR\Teste_FOR\obj\Debug\Teste_FOR.csproj.CoreCompileInputs.cache
+C:\Users\victo\Source\Repos\Teste_FOR\Teste_FOR\obj\Debug\Teste_FOR.exe
+C:\Users\victo\Source\Repos\Teste_FOR\Teste_FOR\obj\Debug\Teste_FOR.pdb

@@ -1,0 +1,11 @@
+C:\Users\victo\Source\Repos\Splash_Screen\Splash_Screen\bin\Debug\Splash_Screen.exe.config
+C:\Users\victo\Source\Repos\Splash_Screen\Splash_Screen\bin\Debug\Splash_Screen.exe
+C:\Users\victo\Source\Repos\Splash_Screen\Splash_Screen\bin\Debug\Splash_Screen.pdb
+C:\Users\victo\Source\Repos\Splash_Screen\Splash_Screen\obj\Debug\Splash_Screen.csprojAssemblyReference.cache
+C:\Users\victo\Source\Repos\Splash_Screen\Splash_Screen\obj\Debug\Splash_Screen.AboutBox1.resources
+C:\Users\victo\Source\Repos\Splash_Screen\Splash_Screen\obj\Debug\Splash_Screen.Form1.resources
+C:\Users\victo\Source\Repos\Splash_Screen\Splash_Screen\obj\Debug\Splash_Screen.Properties.Resources.resources
+C:\Users\victo\Source\Repos\Splash_Screen\Splash_Screen\obj\Debug\Splash_Screen.csproj.GenerateResource.cache
+C:\Users\victo\Source\Repos\Splash_Screen\Splash_Screen\obj\Debug\Splash_Screen.csproj.CoreCompileInputs.cache
+C:\Users\victo\Source\Repos\Splash_Screen\Splash_Screen\obj\Debug\Splash_Screen.exe
+C:\Users\victo\Source\Repos\Splash_Screen\Splash_Screen\obj\Debug\Splash_Screen.pdb

@@ -1,0 +1,10 @@
+C:\Users\victo\Source\Repos\Condicao_If\Condicao_If\bin\Debug\Condicao_If.exe.config
+C:\Users\victo\Source\Repos\Condicao_If\Condicao_If\bin\Debug\Condicao_If.exe
+C:\Users\victo\Source\Repos\Condicao_If\Condicao_If\bin\Debug\Condicao_If.pdb
+C:\Users\victo\Source\Repos\Condicao_If\Condicao_If\obj\Debug\Condicao_If.csprojAssemblyReference.cache
+C:\Users\victo\Source\Repos\Condicao_If\Condicao_If\obj\Debug\Condicao_If.Form1.resources
+C:\Users\victo\Source\Repos\Condicao_If\Condicao_If\obj\Debug\Condicao_If.Properties.Resources.resources
+C:\Users\victo\Source\Repos\Condicao_If\Condicao_If\obj\Debug\Condicao_If.csproj.GenerateResource.cache
+C:\Users\victo\Source\Repos\Condicao_If\Condicao_If\obj\Debug\Condicao_If.csproj.CoreCompileInputs.cache
+C:\Users\victo\Source\Repos\Condicao_If\Condicao_If\obj\Debug\Condicao_If.exe
+C:\Users\victo\Source\Repos\Condicao_If\Condicao_If\obj\Debug\Condicao_If.pdb

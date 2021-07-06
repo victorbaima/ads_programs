@@ -1,0 +1,11 @@
+C:\Users\victo\Source\Repos\ExecutandoExemplos\ExecutandoExemplos\bin\Debug\ExecutandoExemplos.exe.config
+C:\Users\victo\Source\Repos\ExecutandoExemplos\ExecutandoExemplos\bin\Debug\ExecutandoExemplos.exe
+C:\Users\victo\Source\Repos\ExecutandoExemplos\ExecutandoExemplos\bin\Debug\ExecutandoExemplos.pdb
+C:\Users\victo\Source\Repos\ExecutandoExemplos\ExecutandoExemplos\bin\Debug\ExecutandoExemplos.xml
+C:\Users\victo\Source\Repos\ExecutandoExemplos\ExecutandoExemplos\obj\Debug\ExecutandoExemplos.vbprojAssemblyReference.cache
+C:\Users\victo\Source\Repos\ExecutandoExemplos\ExecutandoExemplos\obj\Debug\ExecutandoExemplos.Resources.resources
+C:\Users\victo\Source\Repos\ExecutandoExemplos\ExecutandoExemplos\obj\Debug\ExecutandoExemplos.vbproj.GenerateResource.cache
+C:\Users\victo\Source\Repos\ExecutandoExemplos\ExecutandoExemplos\obj\Debug\ExecutandoExemplos.vbproj.CoreCompileInputs.cache
+C:\Users\victo\Source\Repos\ExecutandoExemplos\ExecutandoExemplos\obj\Debug\ExecutandoExemplos.exe
+C:\Users\victo\Source\Repos\ExecutandoExemplos\ExecutandoExemplos\obj\Debug\ExecutandoExemplos.xml
+C:\Users\victo\Source\Repos\ExecutandoExemplos\ExecutandoExemplos\obj\Debug\ExecutandoExemplos.pdb

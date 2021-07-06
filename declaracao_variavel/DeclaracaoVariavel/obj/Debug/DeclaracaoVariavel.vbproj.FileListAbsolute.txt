@@ -1,0 +1,11 @@
+C:\Users\victo\Source\Repos\DeclaracaoVariavel\DeclaracaoVariavel\bin\Debug\DeclaracaoVariavel.exe.config
+C:\Users\victo\Source\Repos\DeclaracaoVariavel\DeclaracaoVariavel\bin\Debug\DeclaracaoVariavel.exe
+C:\Users\victo\Source\Repos\DeclaracaoVariavel\DeclaracaoVariavel\bin\Debug\DeclaracaoVariavel.pdb
+C:\Users\victo\Source\Repos\DeclaracaoVariavel\DeclaracaoVariavel\bin\Debug\DeclaracaoVariavel.xml
+C:\Users\victo\Source\Repos\DeclaracaoVariavel\DeclaracaoVariavel\obj\Debug\DeclaracaoVariavel.vbprojAssemblyReference.cache
+C:\Users\victo\Source\Repos\DeclaracaoVariavel\DeclaracaoVariavel\obj\Debug\DeclaracaoVariavel.Resources.resources
+C:\Users\victo\Source\Repos\DeclaracaoVariavel\DeclaracaoVariavel\obj\Debug\DeclaracaoVariavel.vbproj.GenerateResource.cache
+C:\Users\victo\Source\Repos\DeclaracaoVariavel\DeclaracaoVariavel\obj\Debug\DeclaracaoVariavel.vbproj.CoreCompileInputs.cache
+C:\Users\victo\Source\Repos\DeclaracaoVariavel\DeclaracaoVariavel\obj\Debug\DeclaracaoVariavel.exe
+C:\Users\victo\Source\Repos\DeclaracaoVariavel\DeclaracaoVariavel\obj\Debug\DeclaracaoVariavel.xml
+C:\Users\victo\Source\Repos\DeclaracaoVariavel\DeclaracaoVariavel\obj\Debug\DeclaracaoVariavel.pdb

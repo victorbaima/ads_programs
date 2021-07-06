@@ -1,0 +1,11 @@
+C:\Users\victo\Source\Repos\ConcatenacaodeString\ConcatenacaodeString\bin\Debug\ConcatenacaodeString.exe.config
+C:\Users\victo\Source\Repos\ConcatenacaodeString\ConcatenacaodeString\bin\Debug\ConcatenacaodeString.exe
+C:\Users\victo\Source\Repos\ConcatenacaodeString\ConcatenacaodeString\bin\Debug\ConcatenacaodeString.pdb
+C:\Users\victo\Source\Repos\ConcatenacaodeString\ConcatenacaodeString\bin\Debug\ConcatenacaodeString.xml
+C:\Users\victo\Source\Repos\ConcatenacaodeString\ConcatenacaodeString\obj\Debug\ConcatenacaodeString.vbprojAssemblyReference.cache
+C:\Users\victo\Source\Repos\ConcatenacaodeString\ConcatenacaodeString\obj\Debug\ConcatenacaodeString.Resources.resources
+C:\Users\victo\Source\Repos\ConcatenacaodeString\ConcatenacaodeString\obj\Debug\ConcatenacaodeString.vbproj.GenerateResource.cache
+C:\Users\victo\Source\Repos\ConcatenacaodeString\ConcatenacaodeString\obj\Debug\ConcatenacaodeString.vbproj.CoreCompileInputs.cache
+C:\Users\victo\Source\Repos\ConcatenacaodeString\ConcatenacaodeString\obj\Debug\ConcatenacaodeString.exe
+C:\Users\victo\Source\Repos\ConcatenacaodeString\ConcatenacaodeString\obj\Debug\ConcatenacaodeString.xml
+C:\Users\victo\Source\Repos\ConcatenacaodeString\ConcatenacaodeString\obj\Debug\ConcatenacaodeString.pdb
